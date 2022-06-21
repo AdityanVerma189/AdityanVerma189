@@ -3,7 +3,7 @@
 
 ## I'm a Developer!
 - 🌱 I’m currently pursuing an Engineering in Computer Science.
-- 👯 I’m looking to collaborate with full stack Devloper.
+- 👯 I’m looking to collaborate with other Devlopers.
 - ⚡ Fun fact: I love to play football and play guitar/drums.
 
 ### Connect with me:
